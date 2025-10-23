@@ -1,2 +1,2 @@
 # SchoolProjects
-Place to put My stuff
+Place to put my stuff
